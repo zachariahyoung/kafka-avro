@@ -1,0 +1,5 @@
+camel:
+  springboot:
+    main-run-controller: true
+
+

@@ -1,0 +1,112 @@
+{
+     "type": "record",
+     "namespace": "com.jbhunt",
+     "name": "AddressDetail",
+     "version": "1",
+     "fields": [
+         {
+           "default": null,
+           "name": "ADDRESSID",
+           "type": [
+             "null",
+             "int"
+           ]
+         },
+         {
+           "default": null,
+           "name": "ADDRESSLINE1",
+           "type": [
+             "null",
+             "string"
+           ]
+         },
+         {
+           "default": null,
+           "name": "ADDRESSLINE2",
+           "type": [
+             "null",
+             "string"
+           ]
+         },
+         {
+           "default": null,
+           "name": "LATITUDE",
+           "type": [
+             "null",
+             "string"
+           ]
+         },
+         {
+           "default": null,
+           "name": "LONGITUDE",
+           "type": [
+             "null",
+             "string"
+           ]
+         },
+         {
+           "default": null,
+           "name": "CITYNAME",
+           "type": [
+             "null",
+             "string"
+           ]
+         },
+         {
+           "default": null,
+           "name": "CITYALIASNAME",
+           "type": [
+             "null",
+             "string"
+           ]
+         },
+         {
+           "default": null,
+           "name": "TIMEZONE",
+           "type": [
+             "null",
+             "string"
+           ]
+         },
+         {
+           "default": null,
+           "name": "STATECODE",
+           "type": [
+             "null",
+             "string"
+           ]
+         },
+         {
+           "default": null,
+           "name": "STATENAME",
+           "type": [
+             "null",
+             "string"
+           ]
+         },
+         {
+           "default": null,
+           "name": "POSTALCODE",
+           "type": [
+             "null",
+             "string"
+           ]
+         },
+         {
+           "default": null,
+           "name": "COUNTRYCODE",
+           "type": [
+             "null",
+             "string"
+           ]
+         },
+         {
+           "default": null,
+           "name": "COUNTRYNAME",
+           "type": [
+             "null",
+             "string"
+           ]
+         }
+       ]
+}
